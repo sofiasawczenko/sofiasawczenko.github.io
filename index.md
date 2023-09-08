@@ -4,9 +4,9 @@
 
 ### Autonomous robot with a navigation system based on computer vision
 
-Computer vision is a technology that enables robots to process visual data from the environment using a combination of camera hardware and computer algorithms. These Robots are equipped with sensors to visualize and perceive the surroundings and effectors to interact with the outside world.
+Computer vision is a technology that enables robots to process visual data from the environment using a combination of camera hardware and computer algorithms. They are equipped with sensors to visualize and perceive the surroundings and effectors to interact with the outside world.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://simpleicons.org/icons/raspberrypi.svg)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/autonomous_robot_computer_vision)
 
