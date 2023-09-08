@@ -6,7 +6,7 @@
 
 Computer vision is a technology that enables robots to process visual data from the environment using a combination of camera hardware and computer algorithms. They are equipped with sensors to visualize and perceive the surroundings and effectors to interact with the outside world.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/RaspberryPi-white?logo=raspberrypi&logoColor=A22846)](#) [![](https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00878F)](#) [![](https://img.shields.io/badge/C/C++-white?logo=C++&logocolor=00599C)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/RaspberryPi-white?logo=raspberrypi&logoColor=A22846)](#) [![](https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00878F)](#) [![](https://img.shields.io/badge/C/C++-white?logo=C&logocolor=00599C)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/autonomous_robot_computer_vision)
 
