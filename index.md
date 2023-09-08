@@ -1,8 +1,8 @@
-## Selected projects
+## Selected Projects
 
 ---
 
-### Deep NLP for hate speech detection
+### Autonomous robot with a navigation system based on computer vision
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
 
