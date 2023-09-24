@@ -1,4 +1,4 @@
-## Selected Projects
+## Selected Machine Learning Projects
 
 ---
 
