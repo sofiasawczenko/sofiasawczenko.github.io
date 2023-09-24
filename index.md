@@ -47,7 +47,7 @@ In this project, I employed Supervised Ridge Regression Learning to forecast wea
 A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/time_series_analysis/blob/main/TimeSeries-checkpoint.ipynb)
 
@@ -56,7 +56,7 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 ### Supervised Learning Regression to predict Estimated Landing Time
 The most common causes of flight delays are varied. While some are not related to accessible data, others are within reach. The inaccessible data will remain as noise caused from security, maintenance and disaster issues. The accessible data are weather and congestion that will shed some light to predict some of the flight delays
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
 [View code on Github](https://github.com/mattschapman/mattschapman.github.io/tree/maste/spiders)
 
