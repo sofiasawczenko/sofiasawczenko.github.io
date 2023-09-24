@@ -37,7 +37,7 @@ Real estate prices in Boston can be influenced by a multitude of factors, from l
 ### Forecasting the weather in New York City with Supervised Learning Ridge Regression 
 In this project, I employed Supervised Ridge Regression Learning to forecast weather patterns in New York City. Ridge regression is a variant of linear regression that introduces a regularization term to the model. This term helps prevent overfitting by penalizing overly complex models. By striking a balance between accuracy and simplicity, ridge regression proves invaluable in accurately predicting weather conditions based on historical data.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/weather_forecasting/blob/main/predict.ipynb)
 
