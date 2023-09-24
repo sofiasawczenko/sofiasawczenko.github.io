@@ -21,12 +21,31 @@ Heart failure is a serious medical condition that occurs when the heart is unabl
 
 ---
 
-### Supervised Regression Learning to Predict House Prices
+### Predicting House Prices with Supervised Learning Regression
 Real estate prices in Boston can be influenced by a multitude of factors, from location and size to local market trends. In this project, I utilized supervised regression learning, a technique where a model learns from labeled data and analyzes the relationship between variables for accurate predictions, considering factors like location, size, and market trends. The goal is to model this relationship and make precise estimations based on the data.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1eMRq-WAtegW5_J5OhTPWoeB3QNf64D-A?usp=sharing)
+
+---
+
+### Forecasting the weather in New York City with Supervised Learning Ridge Regression 
+In this project, I employed Supervised Ridge Regression Learning to forecast weather patterns in New York City. Ridge regression is a variant of linear regression that introduces a regularization term to the model. This term helps prevent overfitting by penalizing overly complex models. By striking a balance between accuracy and simplicity, ridge regression proves invaluable in accurately predicting weather conditions based on historical data.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
+[View code on Github](https://github.com/sofiasawczenko/weather_forecasting/blob/main/predict.ipynb)
+
+---
+
+### Product Rental Time Series Analysis
+A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
 
 ---
 
@@ -36,25 +55,6 @@ The most common causes of flight delays are varied. While some are not related t
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
 [View code on Github](https://github.com/mattschapman/mattschapman.github.io/tree/maste/spiders)
-
----
-
-### Supervised Ridge Regression Learning to Forecast the weather in New York City
-In this project, I employed Supervised Ridge Regression Learning to forecast weather patterns in New York City. Ridge regression is a variant of linear regression that introduces a regularization term to the model. This term helps prevent overfitting by penalizing overly complex models. By striking a balance between accuracy and simplicity, ridge regression proves invaluable in accurately predicting weather conditions based on historical data.
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
-
-[View code on Github](https://github.com/sofiasawczenko/weather_forecasting/blob/main/predict.ipynb)
-
----
-
-### Time Series with car rent
-A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
-
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
 
 ---
 
