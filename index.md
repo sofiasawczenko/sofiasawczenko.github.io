@@ -30,7 +30,7 @@ Real estate prices in Boston can be influenced by a multitude of factors, from l
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1eMRq-WAtegW5_J5OhTPWoeB3QNf64D-A?usp=sharing)
+[View code on Github](https://github.com/sofiasawczenko/forecasting_house_price/blob/main/regressao.ipynb)
 
 ---
 
