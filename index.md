@@ -15,12 +15,16 @@ Computer vision is a technology that enables robots to process visual data from 
 ### Predicting Heart Failure with Supervised Learning Classification 
 Heart failure is a serious medical condition that occurs when the heart is unable to pump enough blood to meet the body's needs. This can happen when the heart muscle becomes weakened or damaged, leading to a decrease in its ability to effectively pump blood.  In this project, I employed supervised learning, a method where a model learns from a labeled dataset. The output variable indicates whether a patient is susceptible to heart failure or not, often represented by classes like "at risk of heart failure" and "not at risk of heart failure".
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
 [View code on Github](https://github.com/sofiasawczenko/heart_failure_forecasting)
 
 ---
 
 ### Supervised Regression Learning to Predict House Prices
 Real estate prices in Boston can be influenced by a multitude of factors, from location and size to local market trends. In this project, I utilized supervised regression learning, a technique where a model learns from labeled data and analyzes the relationship between variables for accurate predictions, considering factors like location, size, and market trends. The goal is to model this relationship and make precise estimations based on the data.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1eMRq-WAtegW5_J5OhTPWoeB3QNf64D-A?usp=sharing)
 
