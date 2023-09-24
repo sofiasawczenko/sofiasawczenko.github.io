@@ -53,7 +53,7 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 
 ---
 
-### Supervised Learning Regression to predict flight delay
+### Supervised Learning Regression to predict Estimated Landing Time
 The most common causes of flight delays are varied. While some are not related to accessible data, others are within reach. The inaccessible data will remain as noise caused from security, maintenance and disaster issues. The accessible data are weather and congestion that will shed some light to predict some of the flight delays
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
