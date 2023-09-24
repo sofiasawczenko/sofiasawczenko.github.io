@@ -35,10 +35,8 @@ The web hosts vast quantities of data useful for research. In this project, I bu
 
 ---
 
-### Geospatial analysis of deprivation in London
+### Forecasting Weather in New York City
 In this project, I use Geopandas to visualise data on deprivation levels in London and analyse changes over time.
-
-<img src="images/london2.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
@@ -46,7 +44,7 @@ View code on Colab
 
 ---
 
-### Interpretable machine learning: Parital Dependence Plots, LIME and Shapley values
+### Time Series with car rent
 A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
 
 <img src="images/interpretable.png?raw=true"/>
