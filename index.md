@@ -47,7 +47,6 @@ View code on Colab
 ### Time Series with car rent
 A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
 
-<img src="images/interpretable.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
 
@@ -55,14 +54,14 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 
 ---
 
-### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
+<!-- ### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
 In many tasks, failing to account for the hierarchical relations and autocorrelations between data can create "ecological fallacies" which misguide our interpretation of the data. In this project, I use mutli-level regression modelling to account for spatial autocorrelation and study reasons for Covid-19 vaccine hesitancy. 
 
 <!-- <img src="images/random_intercept.png?raw=true"/> -->
 
 [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
-View code on Github
+View code on Github -->
 
 ---
 
