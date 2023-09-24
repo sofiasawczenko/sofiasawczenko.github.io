@@ -19,15 +19,15 @@ Heart failure is a serious medical condition that occurs when the heart is unabl
 
 ---
 
-### Supervised Regression Learning to Predict House Prices in Boston
+### Supervised Regression Learning to Predict House Prices
 Real estate prices in Boston can be influenced by a multitude of factors, from location and size to local market trends. In this project, I utilized supervised regression learning, a technique where a model learns from labeled data and analyzes the relationship between variables for accurate predictions, considering factors like location, size, and market trends. The goal is to model this relationship and make precise estimations based on the data.
 
 [View code on Colab](https://colab.research.google.com/drive/1eMRq-WAtegW5_J5OhTPWoeB3QNf64D-A?usp=sharing)
 
 ---
 
-### Classification Artificial Neural Networks for Breast Cancer Dataset to Determine Tumor Malignancy
-The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
+### Supervised Learning Regression to predict flight delay
+The most common causes of flight delays are varied. While some are not related to accessible data, others are within reach. The inaccessible data will remain as noise caused from security, maintenance and disaster issues. The accessible data are weather and congestion that will shed some light to predict some of the flight delays
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
@@ -35,7 +35,7 @@ The web hosts vast quantities of data useful for research. In this project, I bu
 
 ---
 
-### Forecasting Weather in New York City
+### Supervised Ridge Regression Learning to Forecast the weather in New York City
 In this project, I use Geopandas to visualise data on deprivation levels in London and analyse changes over time.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
