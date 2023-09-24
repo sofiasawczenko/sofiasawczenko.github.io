@@ -38,9 +38,9 @@ The most common causes of flight delays are varied. While some are not related t
 ### Supervised Ridge Regression Learning to Forecast the weather in New York City
 In this project, I use Geopandas to visualise data on deprivation levels in London and analyse changes over time.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
 
-View code on Colab
+[View code on Github](https://github.com/sofiasawczenko/weather_forecasting/blob/main/predict.ipynb)
 
 ---
 
