@@ -43,13 +43,13 @@ In this project, I employed Supervised Ridge Regression Learning to forecast wea
 
 ---
 
-### Product Rental Time Series Analysis
+### Time Series Analysis for vehicle rental
 A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
+[View code on Github](https://github.com/sofiasawczenko/time_series_analysis/blob/main/TimeSeries-checkpoint.ipynb)
 
 ---
 
