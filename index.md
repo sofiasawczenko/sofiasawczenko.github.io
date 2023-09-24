@@ -15,7 +15,7 @@ Computer vision is a technology that enables robots to process visual data from 
 ### Predicting Heart Failure with Supervised Learning Classification 
 Heart failure is a serious medical condition that occurs when the heart is unable to pump enough blood to meet the body's needs. This can happen when the heart muscle becomes weakened or damaged, leading to a decrease in its ability to effectively pump blood.  In this project, I employed supervised learning, a method where a model learns from a labeled dataset. The output variable indicates whether a patient is susceptible to heart failure or not, often represented by classes like "at risk of heart failure" and "not at risk of heart failure".
 
-<img src= 'https://github.com/sofiasawczenko/sofiasawczenko.github.io/blob/master/images/Captura%20de%20tela%202023-09-24%20152122.png?raw=true'/>
+<img src= 'https://github.com/sofiasawczenko/sofiasawczenko.github.io/blob/master/images/imagem_heart.png?raw=true'/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
