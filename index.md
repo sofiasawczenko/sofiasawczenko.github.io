@@ -43,12 +43,12 @@ In this project, I employed Supervised Ridge Regression Learning to forecast wea
 
 ---
 
-### Time Series Analysis for vehicle rental
-A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
+### Time Series Analysis for vehicle sales
+In this project, using libraries like Pandas for tabular data visualization and manipulation, Matplotlib and Seaborn for constructing graphs, I analyzed the quantity of vehicle sales over a period of time. Given the significance of the time factor, I employed time series analysis to effectively quantify the growth and decline in sales.
 
 <img src= 'https://github.com/sofiasawczenko/sofiasawczenko.github.io/blob/master/images/Captura%20de%20tela%202023-09-24%20162000.png?raw=true'/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/matplot-white?logo=matplot)](#) [![](https://img.shields.io/badge/seaborn-white?logo=seaborn)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/matplot-white?logo=Matplot)](#) [![](https://img.shields.io/badge/Seaborn-white?logo=seaborn)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/time_series_analysis/blob/main/TimeSeries-checkpoint.ipynb)
 
