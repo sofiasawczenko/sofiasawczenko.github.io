@@ -48,7 +48,7 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 
 <img src= 'https://github.com/sofiasawczenko/sofiasawczenko.github.io/blob/master/images/Captura%20de%20tela%202023-09-24%20162000.png?raw=true'/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/matplot-white?logo=matplot)](#) [![](https://img.shields.io/badge/seaborn-white?logo=seaborn)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/time_series_analysis/blob/main/TimeSeries-checkpoint.ipynb)
 
