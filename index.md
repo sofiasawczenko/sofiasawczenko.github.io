@@ -19,7 +19,7 @@ Heart failure is a serious medical condition that occurs when the heart is unabl
 
 <img src= 'https://github.com/sofiasawczenko/sofiasawczenko.github.io/blob/master/images/imagem_heart.png?raw=true'/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/Numpy-white?logo=numpy)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/heart_failure_forecasting)
 
