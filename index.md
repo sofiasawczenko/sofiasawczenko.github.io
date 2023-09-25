@@ -54,7 +54,7 @@ In this project, using libraries like Pandas for tabular data visualization and 
 
 ---
 
-### Supervised Learning Regression to predict Estimated Landing Time
+### Unsupervised Learning Regression to predict Estimated Landing Time
 The most common causes of flight delays are varied. While some are not related to accessible data, others are within reach. The inaccessible data will remain as noise caused from security, maintenance and disaster issues. The accessible data are weather and congestion that will shed some light to predict some of the flight delays
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
