@@ -43,7 +43,7 @@ In this project, I employed Supervised Ridge Regression Learning to forecast wea
 
 ---
 
-### Time Series Analysis for vehicle sales
+### Time Series Analysis for Vehicle Sales
 In this project, using libraries like Pandas for tabular data visualization and manipulation, Matplotlib and Seaborn for constructing graphs, I analyzed the quantity of vehicle sales over a period of time. Given the significance of the time factor, I employed time series analysis to effectively quantify the growth and decline in sales.
 
 <img src= 'https://github.com/sofiasawczenko/sofiasawczenko.github.io/blob/master/images/Captura%20de%20tela%202023-09-24%20162000.png?raw=true'/>
