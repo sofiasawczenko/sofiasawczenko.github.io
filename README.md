@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/e8df010b-96f3-43ee-8c6d-ea040a2bc41a)
 
-This is Sofia Sawczenko's personal portfolio showcasing her work in **Data Science** and **Machine Learning**. The portfolio is designed to highlight key projects, skills, and accomplishments in the field of data science and ML.
+This is Sofia Sawczenko's personal portfolio showcasing her work in **Data Engineering**, **Data Analysis**. **Data Science** and a few **Machine Learning**. The portfolio is designed to highlight key projects, skills, and accomplishments in the field of data science and ML.
 
 ## Project Overview
 
