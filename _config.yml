@@ -11,16 +11,11 @@ description: > # your text below (remove <br> elements if you don't need line br
     <br><br>
   <a href="https://www.linkedin.com/in/sofia-sawczenko/">View my LinkedIn Profile</a> 
   <a href="https://github.com/sofiasawczenko">View My GitHub Profile</a>
-  
+  <p>This project is maintained by <a href="https://github.com/sofiasawczenko">Sofia Sawczenko</a></p>
+  <p><small>Hosted on GitHub Pages</small></p>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 colors:
   crimson: '#900C3F'
 
-<footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages</small></p>
-</footer>
