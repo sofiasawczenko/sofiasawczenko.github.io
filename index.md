@@ -24,7 +24,7 @@ Develop a comprehensive cricket statistics pipeline leveraging Google Cloud serv
 
 ![image](https://github.com/user-attachments/assets/dddde745-1ff4-4fdd-85ae-2cb1d8edd0e8)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)
 
 [View code on Github](https://github.com/sofiasawczenko/ETL_cricket_stats)
 
@@ -36,7 +36,8 @@ Develop a secure and efficient ETL pipeline to process sensitive employee data f
 
 ![image](https://github.com/user-attachments/assets/aae5098c-d72d-4d44-9a94-ca740674dabf)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)
+
 
 [View code on Github](https://github.com/sofiasawczenko/ETL_employee_info_pipeline)
 
