@@ -20,16 +20,9 @@ This project demonstrates the use of OpenCV for lane detection on street images.
 
 ### Building a Cricket Statistics Pipeline with Google Cloud Services
 
-A comprehensive cricket statistics pipeline built using Google Cloud services. The pipeline involves retrieving data via the Cricbuzz API, and leveraging various cloud technologies such as Cloud Composer, Cloud Storage, Cloud Functions, Dataflow, and more to process and manage the data efficiently.
+Develop a comprehensive cricket statistics pipeline leveraging Google Cloud services for efficient data processing and visualization. The pipeline begins with data retrieval from the Cricbuzz API, storing the data securely as CSV files in Google Cloud Storage (GCS), which provides scalable and durable storage for large datasets. A Cloud Function is configured to automatically trigger upon file uploads in GCS, initiating the pipeline by seamlessly passing parameters to a Dataflow job. This Dataflow job processes and loads the data into BigQuery, a fully-managed, serverless data warehouse designed for fast and scalable analytics. Finally, a Looker Studio dashboard connects to BigQuery, enabling real-time visualization and analysis of the cricket statistics.
 
 ![image](https://github.com/user-attachments/assets/dddde745-1ff4-4fdd-85ae-2cb1d8edd0e8)
-
-- **Data Retrieval with Python and Cricbuzz API:** Use Python to fetch cricket statistics efficiently via the Cricbuzz API.
-- **Storing Data in Google Cloud Storage (GCS):** Save retrieved data as CSV files in GCS for secure, scalable storage.
-- **Creating a Cloud Function Trigger:** Set up a Cloud Function to activate on file uploads in GCS, initiating the data pipeline.
-- **Execution of the Cloud Function:** Design Cloud Function code to trigger and parameterize a Dataflow job seamlessly.
-- **Dataflow Job for BigQuery:** Transfer data from GCS CSV files to BigQuery using a Dataflow job with optimized settings.
-- **Looker Dashboard Creation:** Build a Looker dashboard linked to BigQuery for visualizing cricket statistics.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
@@ -37,9 +30,9 @@ A comprehensive cricket statistics pipeline built using Google Cloud services. T
 
 ---
 
-### Applying ETL to Sensitive Data with Google Cloud Services
+### ETL Pipeline for Sensitive Employee Data with Google Cloud Services
 
-Design and implement a data pipeline to extract employee data from multiple sources, mask sensitive information, and load the processed data into BigQuery. Additionally, create a secure dashboard to visualize the employee data. This ETL project utilizes Google Cloud Data Fusion for data extraction, Apache Airflow/Composer for orchestration, and Google BigQuery for data storage and analysis.
+Develop a secure and efficient ETL pipeline to process sensitive employee data from various sources. Use Google Cloud Data Fusion for seamless data extraction, applying data masking techniques to protect sensitive information. Leverage Apache Airflow/Cloud Composer for orchestrating data workflows, ensuring smooth and automated processing. Load the sanitized data into BigQuery, a robust, serverless data warehouse designed for secure and scalable analytics. Finally, create an interactive and secure dashboard for visualizing employee data, enabling insightful and privacy-compliant reporting.
 
 ![image](https://github.com/user-attachments/assets/aae5098c-d72d-4d44-9a94-ca740674dabf)
 
@@ -105,7 +98,7 @@ Project that preprocess textual data using Python libraries such as NLTK, TextBl
 
 ### Flight Price Tracker with Selenium Automation
 
-This project is a simple Python script that uses Selenium to scrape the price of a flight from a specific URL and save it to a .txt file. The script is also scheduled to run every two weeks using the schedule library.
+This project is a Python script that uses Selenium to scrape the price of a flight from a specific URL and save it to a .txt file. The script is also scheduled to run every two weeks using the schedule library.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
@@ -113,9 +106,9 @@ This project is a simple Python script that uses Selenium to scrape the price of
 
 ---
 
-### Web Scrapping Prices on Mercado Livre Marketplace
+### Web Scraping Marketplace Prices on Mercado Livre
 
-Marketplace Product Web Scraping with Python, BeautifulSoup, Requests, and SQLite Database.
+Develop a web scraping solution to extract product prices and details from the Mercado Livre marketplace using Python, BeautifulSoup, and Requests. Store the scraped data efficiently in an SQLite database for easy access and analysis, enabling tracking of marketplace trends and price changes over time.
 
 ![image](https://github.com/user-attachments/assets/5a068a6e-a509-443a-8bc0-89aa046ba0ed)
 
