@@ -31,6 +31,8 @@ A comprehensive cricket statistics pipeline built using Google Cloud services. T
 - **Dataflow Job for BigQuery:** Transfer data from GCS CSV files to BigQuery using a Dataflow job with optimized settings.
 - **Looker Dashboard Creation:** Build a Looker dashboard linked to BigQuery for visualizing cricket statistics.
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+
 [View code on Github](https://github.com/sofiasawczenko/ETL_cricket_stats)
 
 ---
@@ -40,6 +42,8 @@ A comprehensive cricket statistics pipeline built using Google Cloud services. T
 Design and implement a data pipeline to extract employee data from multiple sources, mask sensitive information, and load the processed data into BigQuery. Additionally, create a secure dashboard to visualize the employee data. This ETL project utilizes Google Cloud Data Fusion for data extraction, Apache Airflow/Composer for orchestration, and Google BigQuery for data storage and analysis.
 
 ![image](https://github.com/user-attachments/assets/aae5098c-d72d-4d44-9a94-ca740674dabf)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
 [View code on Github](https://github.com/sofiasawczenko/ETL_employee_info_pipeline)
 
@@ -92,6 +96,8 @@ In this project, using libraries like Pandas for tabular data visualization and 
 ### Preprocessing and Analyzing Text Sentiment with NLTK and TextBlob
 
 Project that preprocess textual data using Python libraries such as NLTK, TextBlob, and Newspaper3k. It covers how to scrape articles, clean and process text data, and analyze its sentiment.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
 [View code on Github](https://github.com/sofiasawczenko/analyzing_text_sentiment)
 
