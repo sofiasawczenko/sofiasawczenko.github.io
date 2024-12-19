@@ -10,6 +10,9 @@ description: > # your text below (remove <br> elements if you don't need line br
     <b>― Albert Einstein</b></i>
     <br><br>
   <a href="https://www.linkedin.com/in/sofia-sawczenko/">View my LinkedIn Profile</a> 
+  {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
