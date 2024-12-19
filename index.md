@@ -22,7 +22,7 @@ This project demonstrates the use of OpenCV for lane detection on street images.
 
 Develop a comprehensive cricket statistics pipeline leveraging Google Cloud services for efficient data processing and visualization. The pipeline begins with data retrieval from the Cricbuzz API, storing the data securely as CSV files in Google Cloud Storage (GCS), which provides scalable and durable storage for large datasets. A Cloud Function is configured to automatically trigger upon file uploads in GCS, initiating the pipeline by seamlessly passing parameters to a Dataflow job. This Dataflow job processes and loads the data into BigQuery, a fully-managed, serverless data warehouse designed for fast and scalable analytics. Finally, a Looker Studio dashboard connects to BigQuery, enabling real-time visualization and analysis of the cricket statistics.
 
-![image](https://github.com/user-attachments/assets/60f490b6-9b23-468a-9fbd-7c36c910ca64)
+![image](https://github.com/user-attachments/assets/f7c770a4-c340-45a7-b7fc-b789ae0bdb59)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)
 
