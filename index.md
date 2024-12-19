@@ -113,7 +113,6 @@ Develop a web scraping solution to extract product prices and details from the M
 
 ![image](https://github.com/user-attachments/assets/72d6fdf8-2c70-4f46-826c-24c20d5f2af9)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/SQLite-white?style=flat&logo=sqlite&color=000000)](#) [![](https://img.shields.io/badge/BeautifulSoup-white?style=flat&logoColor=000000&color=ffffff)](#) [![](https://img.shields.io/badge/Requests-white?style=flat&logoColor=000000&color=ffffff)](#)
 
