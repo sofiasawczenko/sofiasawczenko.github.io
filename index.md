@@ -4,9 +4,13 @@
 
 ### Autonomous robot with a navigation system based on computer vision
 
-Computer vision is a technology that enables robots to process visual data from the environment using a combination of camera hardware and computer algorithms. They are equipped with sensors to visualize and perceive the surroundings and effectors to interact with the outside world.
+This project integrates computer vision and robotics to create an autonomous robot for navigation on streets using Python, C, OpenCV, Flask, and GPIO libraries for image processing, motor control, and web-based interaction, with a Raspberry Pi handling vision and logic, and an Arduino managing motor control.
 
 <img src= 'https://github.com/sofiasawczenko/sofiasawczenko.github.io/blob/master/images/object_detection2.jpg?raw=true'/>
+
+This project demonstrates the use of OpenCV for lane detection on street images. The goal is to process the image, detect edges using the Canny edge detector, apply a mask to focus on the region of interest, and then extract the lane boundaries.
+
+![image](https://github.com/user-attachments/assets/8391d225-290a-4701-b47b-0afd5561897b)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/RaspberryPi-white?logo=raspberrypi&logoColor=A22846)](#) [![](https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00878F)](#) [![](https://img.shields.io/badge/C/C++-white?logo=Cplusplus&logoColor=00599C)](#)
 
