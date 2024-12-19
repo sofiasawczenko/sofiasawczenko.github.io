@@ -23,6 +23,8 @@ Heart failure is a serious medical condition that occurs when the heart is unabl
 
 <img src= 'https://github.com/sofiasawczenko/sofiasawczenko.github.io/blob/master/images/imagem_heart.png?raw=true'/>
 
+This heart failure prediction project uses a Kaggle dataset, where several data preprocessing techniques were applied, followed by validations using methods like logistic regression, cross-validation, Naive Bayes, Random Forest, KNN and SVM.
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/Numpy-white?logo=numpy)](#) [![](https://img.shields.io/badge/Matplot-white?logo=Matplot)](#) 
 
 [View code on Github](https://github.com/sofiasawczenko/heart_failure_forecasting)
@@ -34,16 +36,18 @@ Real estate prices in Boston can be influenced by a multitude of factors, from l
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Sklearn-white?logo=scikit-learn)](#)
 
-[View code on Github](https://github.com/sofiasawczenko/forecasting_house_price/blob/main/regressao.ipynb)
+[View code on Github](https://github.com/sofiasawczenko/forecasting_house_price/tree/main)
 
 ---
 
 ### Forecasting the weather in New York City with Supervised Learning Ridge Regression 
-In this project, I employed Supervised Ridge Regression Learning to forecast weather patterns in New York City. Ridge regression is a variant of linear regression that introduces a regularization term to the model. This term helps prevent overfitting by penalizing overly complex models. By striking a balance between accuracy and simplicity, ridge regression proves invaluable in accurately predicting weather conditions based on historical data.
+In this project, I employed Supervised Ridge Regression Learning to forecast weather patterns in New York City based on historical data from 1970 to 2022. Ridge regression is a variant of linear regression that introduces a regularization term to the model. This term helps prevent overfitting by penalizing overly complex models. By striking a balance between accuracy and simplicity, ridge regression proves invaluable in accurately predicting weather conditions based on historical data.
+
+![image](https://github.com/user-attachments/assets/d2f24fab-9c94-4909-b62f-e0bbf5e4849e)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#)
 
-[View code on Github](https://github.com/sofiasawczenko/weather_forecasting/blob/main/predict.ipynb)
+[View code on Github](https://github.com/sofiasawczenko/weather_forecasting/tree/main)
 
 ---
 
