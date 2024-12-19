@@ -133,3 +133,7 @@ The most common causes of flight delays are varied. While some are not related t
 [View code on Github]()
 
 ---
+
+### Unified Data Pipeline for Batch and Real-Time Amazon Product Reviews Analysis
+
+Develop a data pipeline to process Amazon product review datasets, combining batch and streaming data sources. Batch data includes 82.83 million reviews and product metadata stored as JSON files in Azure Data Lake Storage. Streaming data provides real-time updates to ensure the dataset remains current. The pipeline will integrate these sources for efficient analysis and insights.
