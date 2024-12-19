@@ -91,7 +91,7 @@ In this project, using libraries like Pandas for tabular data visualization and 
 
 Project that preprocess textual data using Python libraries such as NLTK, TextBlob, and Newspaper3k. It covers how to scrape articles, clean and process text data, and analyze its sentiment.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/NLTK-white?style=flat&logo=sqlite&color=ffffff)](#)  [![](https://img.shields.io/badge/TextBlob-white?style=flat&logo=sqlite&color=ffffff)](#)  [![](https://img.shields.io/badge/Newspaper3k-white?style=flat&logo=sqlite&color=ffffff)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/analyzing_text_sentiment)
 
@@ -101,7 +101,7 @@ Project that preprocess textual data using Python libraries such as NLTK, TextBl
 
 This project is a Python script that uses Selenium to scrape the price of a flight from a specific URL and save it to a .txt file. The script is also scheduled to run every two weeks using the schedule library.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Selenium-white?style=flat&logo=sqlite&color=ffffff)](#)  [![](https://img.shields.io/badge/Schedule-white?style=flat&logo=sqlite&color=ffffff)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/get_flight_price_selenium)
 
@@ -114,6 +114,8 @@ Develop a web scraping solution to extract product prices and details from the M
 ![image](https://github.com/user-attachments/assets/72d6fdf8-2c70-4f46-826c-24c20d5f2af9)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/SQLite-white?style=flat&logo=sqlite&color=ffffff)](#) [![](https://img.shields.io/badge/BeautifulSoup-white?style=flat&logoColor=000000&color=ffffff)](#) [![](https://img.shields.io/badge/Requests-white?style=flat&logoColor=000000&color=ffffff)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/meli_webscraping)
 
@@ -132,4 +134,4 @@ The most common causes of flight delays are varied. While some are not related t
 
 Develop a data pipeline to process Amazon product review datasets, combining batch and streaming data sources. Batch data includes 82.83 million reviews and product metadata stored as JSON files in Azure Data Lake Storage. Streaming data provides real-time updates to ensure the dataset remains current. The pipeline will integrate these sources for efficient analysis and insights.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/DataBricks-white?style=flat&logo=sqlite&color=ffffff)](#)
