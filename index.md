@@ -103,7 +103,27 @@ Project that preprocess textual data using Python libraries such as NLTK, TextBl
 
 ---
 
+### Flight Price Tracker with Selenium Automation
 
+This project is a simple Python script that uses Selenium to scrape the price of a flight from a specific URL and save it to a .txt file. The script is also scheduled to run every two weeks using the schedule library.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+
+[View code on Github](https://github.com/sofiasawczenko/get_flight_price_selenium)
+
+---
+
+### Web Scrapping Prices on Mercado Livre Marketplace
+
+Marketplace Product Web Scraping with Python, BeautifulSoup, Requests, and SQLite Database.
+
+![image](https://github.com/user-attachments/assets/5a068a6e-a509-443a-8bc0-89aa046ba0ed)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+
+[View code on Github](https://github.com/sofiasawczenko/meli_webscraping)
+
+---
 
 ### Unsupervised Learning Regression to predict Estimated Landing Time
 The most common causes of flight delays are varied. While some are not related to accessible data, others are within reach. The inaccessible data will remain as noise caused from security, maintenance and disaster issues. The accessible data are weather and congestion that will shed some light to predict some of the flight delays
