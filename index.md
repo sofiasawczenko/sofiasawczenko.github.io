@@ -34,6 +34,15 @@ A comprehensive cricket statistics pipeline built using Google Cloud services. T
   
 ---
 
+### Applying ETL to Sensitive Data
+
+Design and implement a data pipeline to extract employee data from multiple sources, mask sensitive information, and load the processed data into BigQuery. Additionally, create a secure dashboard to visualize the employee data. This ETL project utilizes Google Cloud Data Fusion for data extraction, Apache Airflow/Composer for orchestration, and Google BigQuery for data storage and analysis.
+
+![image](https://github.com/user-attachments/assets/aae5098c-d72d-4d44-9a94-ca740674dabf)
+
+
+---
+
 ### Predicting Heart Failure with Supervised Learning Classification 
 Heart failure is a serious medical condition that occurs when the heart is unable to pump enough blood to meet the body's needs. This can happen when the heart muscle becomes weakened or damaged, leading to a decrease in its ability to effectively pump blood.  In this project, I employed supervised learning, a method where a model learns from a labeled dataset. The output variable indicates whether a patient is susceptible to heart failure or not, often represented by classes like "at risk of heart failure" and "not at risk of heart failure".
 
