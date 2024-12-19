@@ -12,9 +12,25 @@ This project demonstrates the use of OpenCV for lane detection on street images.
 
 ![image](https://github.com/user-attachments/assets/8391d225-290a-4701-b47b-0afd5561897b)
 
+- **Data Retrieval with Python and Cricbuzz API:** Use Python to fetch cricket statistics efficiently via the Cricbuzz API.
+- **Storing Data in Google Cloud Storage (GCS):** Save retrieved data as CSV files in GCS for secure, scalable storage.
+- **Creating a Cloud Function Trigger:** Set up a Cloud Function to activate on file uploads in GCS, initiating the data pipeline.
+- **Execution of the Cloud Function:** Design Cloud Function code to trigger and parameterize a Dataflow job seamlessly.
+- **Dataflow Job for BigQuery:** Transfer data from GCS CSV files to BigQuery using a Dataflow job with optimized settings.
+- **Looker Dashboard Creation:** Build a Looker dashboard linked to BigQuery for visualizing cricket statistics.
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/RaspberryPi-white?logo=raspberrypi&logoColor=A22846)](#) [![](https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00878F)](#) [![](https://img.shields.io/badge/C/C++-white?logo=Cplusplus&logoColor=00599C)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/autonomous_robot_computer_vision)
+
+---
+
+### Building a Cricket Statistics Pipeline with Google Cloud Services
+
+A comprehensive cricket statistics pipeline built using Google Cloud services. The pipeline involves retrieving data via the Cricbuzz API, and leveraging various cloud technologies such as Cloud Composer, Cloud Storage, Cloud Functions, Dataflow, and more to process and manage the data efficiently.
+
+![image](https://github.com/user-attachments/assets/dddde745-1ff4-4fdd-85ae-2cb1d8edd0e8)
+
 
 ---
 
