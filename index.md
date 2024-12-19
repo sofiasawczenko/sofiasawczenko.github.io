@@ -24,7 +24,7 @@ Develop a comprehensive cricket statistics pipeline leveraging Google Cloud serv
 
 ![image](https://github.com/user-attachments/assets/512d885d-79c7-4b4f-b3ac-5ee706521dad)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/ETL_cricket_stats)
 
@@ -34,9 +34,10 @@ Develop a comprehensive cricket statistics pipeline leveraging Google Cloud serv
 
 Develop a secure and efficient ETL pipeline to process sensitive employee data from various sources. Use Google Cloud Data Fusion for seamless data extraction, applying data masking techniques to protect sensitive information. Leverage Apache Airflow/Cloud Composer for orchestrating data workflows, ensuring smooth and automated processing. Load the sanitized data into BigQuery, a robust, serverless data warehouse designed for secure and scalable analytics. Finally, create an interactive and secure dashboard for visualizing employee data, enabling insightful and privacy-compliant reporting.
 
-![image](https://github.com/user-attachments/assets/aae5098c-d72d-4d44-9a94-ca740674dabf)
+![image](https://github.com/user-attachments/assets/fd886dea-6536-40ea-a744-8e31f9ba9fdd)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)](#)
 
 
 [View code on Github](https://github.com/sofiasawczenko/ETL_employee_info_pipeline)
