@@ -34,7 +34,7 @@ Develop a comprehensive cricket statistics pipeline leveraging Google Cloud serv
 
 Develop a secure and efficient ETL pipeline to process sensitive employee data from various sources. Use Google Cloud Data Fusion for seamless data extraction, applying data masking techniques to protect sensitive information. Leverage Apache Airflow/Cloud Composer for orchestrating data workflows, ensuring smooth and automated processing. Load the sanitized data into BigQuery, a robust, serverless data warehouse designed for secure and scalable analytics. Finally, create an interactive and secure dashboard for visualizing employee data, enabling insightful and privacy-compliant reporting.
 
-![image](https://github.com/user-attachments/assets/013b8026-e5ca-4e37-825b-616d111d4457)
+![image](https://github.com/user-attachments/assets/09204ad4-646e-4b83-8f57-377e0b507754)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)](#)  [![](https://img.shields.io/badge/Cloud_storage-white?style=flat&logoColor=000000&color=ffffff)](#) [![](https://img.shields.io/badge/Cloud_Data_Fusion-white?style=flat&logoColor=000000&color=ffffff)](#) [![](https://img.shields.io/badge/Big_Query-white?style=flat&logoColor=000000&color=ffffff)](#) [![](https://img.shields.io/badge/Looker-white?style=flat&logoColor=000000&color=ffffff)](#) 
 
