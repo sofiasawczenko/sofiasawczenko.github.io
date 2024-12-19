@@ -110,7 +110,7 @@ This project is a Python script that uses Selenium to scrape the price of a flig
 
 Develop a web scraping solution to extract product prices and details from the Mercado Livre marketplace using Python, BeautifulSoup, and Requests. Store the scraped data efficiently in an SQLite database for easy access and analysis, enabling tracking of marketplace trends and price changes over time.
 
-![image](https://github.com/user-attachments/assets/5a068a6e-a509-443a-8bc0-89aa046ba0ed)
+![image](https://github.com/user-attachments/assets/e53006ec-20ea-4371-a6f3-728ac869598f)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
