@@ -24,7 +24,7 @@ Develop a comprehensive cricket statistics pipeline leveraging Google Cloud serv
 
 ![image](https://github.com/user-attachments/assets/512d885d-79c7-4b4f-b3ac-5ee706521dad)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)](#) [![](https://img.shields.io/badge/Cloud&Storage-white?style=flat&logoColor=000000&color=ffffff)](#) [![](https://img.shields.io/badge/Cloud&Data&Fusion-white?style=flat&logoColor=000000&color=ffffff)](#) 
 
 [View code on Github](https://github.com/sofiasawczenko/ETL_cricket_stats)
 
@@ -36,7 +36,7 @@ Develop a secure and efficient ETL pipeline to process sensitive employee data f
 
 ![image](https://github.com/user-attachments/assets/013b8026-e5ca-4e37-825b-616d111d4457)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)](#) (https://img.shields.io/badge/Cloud&Storage-white?style=flat&logoColor=000000&color=ffffff)](#) [![](https://img.shields.io/badge/Cloud&Data&Fusion-white?style=flat&logoColor=000000&color=ffffff)](#) [![](https://img.shields.io/badge/Big&Query-white?style=flat&logoColor=000000&color=ffffff)](#) [![](https://img.shields.io/badge/Looker-white?style=flat&logoColor=000000&color=ffffff)](#) 
 
 
 [View code on Github](https://github.com/sofiasawczenko/ETL_employee_info_pipeline)
