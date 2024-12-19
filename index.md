@@ -34,8 +34,7 @@ Develop a comprehensive cricket statistics pipeline leveraging Google Cloud serv
 
 Develop a secure and efficient ETL pipeline to process sensitive employee data from various sources. Use Google Cloud Data Fusion for seamless data extraction, applying data masking techniques to protect sensitive information. Leverage Apache Airflow/Cloud Composer for orchestrating data workflows, ensuring smooth and automated processing. Load the sanitized data into BigQuery, a robust, serverless data warehouse designed for secure and scalable analytics. Finally, create an interactive and secure dashboard for visualizing employee data, enabling insightful and privacy-compliant reporting.
 
-![image](https://github.com/user-attachments/assets/fd886dea-6536-40ea-a744-8e31f9ba9fdd)
-
+![image](https://github.com/user-attachments/assets/013b8026-e5ca-4e37-825b-616d111d4457)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google-cloud&logoColor=4285F4)](#)
 
@@ -132,3 +131,5 @@ The most common causes of flight delays are varied. While some are not related t
 ### Unified Data Pipeline for Batch and Real-Time Amazon Product Reviews Analysis
 
 Develop a data pipeline to process Amazon product review datasets, combining batch and streaming data sources. Batch data includes 82.83 million reviews and product metadata stored as JSON files in Azure Data Lake Storage. Streaming data provides real-time updates to ensure the dataset remains current. The pipeline will integrate these sources for efficient analysis and insights.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
