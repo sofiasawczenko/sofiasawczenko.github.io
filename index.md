@@ -12,7 +12,7 @@ This project demonstrates the use of OpenCV for lane detection on street images.
 
 ![image](https://github.com/user-attachments/assets/8391d225-290a-4701-b47b-0afd5561897b)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/RaspberryPi-white?logo=raspberrypi&logoColor=A22846)](#) [![](https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00878F)](#) [![](https://img.shields.io/badge/C/C++-white?logo=Cplusplus&logoColor=00599C)](#)[![](https://img.shields.io/badge/openCV-white?style=flat&logoColor=000000&color=ffffff)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/RaspberryPi-white?logo=raspberrypi&logoColor=A22846)](#) [![](https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00878F)](#) [![](https://img.shields.io/badge/C/C++-white?logo=Cplusplus&logoColor=00599C)](#) [![](https://img.shields.io/badge/openCV-white?style=flat&logoColor=000000&color=ffffff)](#)
 
 [View code on Github](https://github.com/sofiasawczenko/autonomous_robot_computer_vision)
 
