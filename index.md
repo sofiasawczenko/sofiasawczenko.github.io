@@ -1,4 +1,4 @@
-## Selected Projects on Data
+## Selected Data Projects
 
 ---
 
