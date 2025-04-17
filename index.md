@@ -154,11 +154,14 @@ The most common causes of flight delays are varied. While some are not related t
 
 ---
 
-### Virtual Assistant in Browser Extension
+### AI-Powered Virtual Assistant Built into a Browser Extension
 
 A virtual assistant powered by artificial intelligence, seamlessly integrated into the browser as an extension. This assistant provides real-time, context-aware support to users while they browse, offering personalized help and insights based on on-screen content and user interactions.
 
 The assistant utilizes the Google Gemini API for natural language processing and understanding, enabling it to interpret queries, provide intelligent responses, and enhance the browsing experience without the need to switch tabs or applications.
+
+![image](https://github.com/user-attachments/assets/642e4947-d03d-461f-8abe-6082635dbe92)
+
 
 Key highlights:
 
@@ -171,3 +174,15 @@ Key highlights:
 - Modular design for future expansion to other APIs or use cases.
 
   [View code on Github](https://github.com/sofiasawczenko/aiva_virtual_assistant_ai)
+
+  ---
+
+### Sudoku Solver
+
+A back-end implementation in Java designed to solve Sudoku puzzles using the backtracking algorithm. This project provides an efficient and reliable solution to the Sudoku problem, systematically exploring possibilities and backtracking when necessary to find the correct answer.
+
+[![](https://img.shields.io/badge/Java-white?logo=Java)](#) 
+
+[View code on Github](https://github.com/sofiasawczenko/sudoku)
+
+---
