@@ -18,6 +18,30 @@ This project demonstrates the use of OpenCV for lane detection on street images.
 
 ---
 
+### Chatbot with RAG using LangChain and OpenAI
+
+This project showcases the development of a console-based chatbot leveraging Retrieval-Augmented Generation (RAG), powered by LangChain and OpenAI’s large language model. RAG is a powerful technique that combines traditional retrieval methods with generative AI, enabling the chatbot to provide highly relevant and context-aware responses.
+
+In this implementation, the system scans and indexes a collection of PDF documents stored locally. When a user asks a question, the chatbot retrieves relevant information from the indexed PDFs and feeds it into the language model, allowing it to generate accurate and contextually grounded answers.
+  Key components and features include:
+  
+  - LangChain for chaining components like retrievers, language models, and memory.
+  
+   - OpenAI API for natural language understanding and generation.
+  
+  - PDF loaders for parsing and processing local documents.
+  
+  - Vector stores to embed and search relevant chunks of text.
+  
+  - Designed for terminal use, making it lightweight and easy to deploy.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+
+[View code on Github](https://github.com/sofiasawczenko/ETL_cricket_stats)
+
+
+---
+
 ### Building a Cricket Statistics Pipeline with Google Cloud Services
 
 Develop a comprehensive cricket statistics pipeline leveraging Google Cloud services for efficient data processing and visualization. The pipeline begins with data retrieval from the Cricbuzz API, storing the data securely as CSV files in Google Cloud Storage (GCS), which provides scalable and durable storage for large datasets. A Cloud Function is configured to automatically trigger upon file uploads in GCS, initiating the pipeline by seamlessly passing parameters to a Dataflow job. This Dataflow job processes and loads the data into BigQuery, a fully-managed, serverless data warehouse designed for fast and scalable analytics. Finally, a Looker Studio dashboard connects to BigQuery, enabling real-time visualization and analysis of the cricket statistics.
