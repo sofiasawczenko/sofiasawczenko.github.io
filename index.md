@@ -130,8 +130,8 @@ The most common causes of flight delays are varied. While some are not related t
 
 ---
 
-### Unified Data Pipeline for Batch and Real-Time Amazon Product Reviews Analysis
+### Virtual Assistant in Browser Extension
 
-Develop a data pipeline to process Amazon product review datasets, combining batch and streaming data sources. Batch data includes 82.83 million reviews and product metadata stored as JSON files in Azure Data Lake Storage. Streaming data provides real-time updates to ensure the dataset remains current. The pipeline will integrate these sources for efficient analysis and insights.
+A virtual assistant powered by artificial intelligence, seamlessly integrated into the browser as an extension. This assistant provides real-time, context-aware support to users while they browse, offering personalized help and insights based on on-screen content and user interactions.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/DataBricks-white?style=flat&logoColor=000000&color=ffffff)](#)
+The assistant utilizes the Google Gemini API for natural language processing and understanding, enabling it to interpret queries, provide intelligent responses, and enhance the browsing experience without the need to switch tabs or applications.
