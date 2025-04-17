@@ -159,3 +159,13 @@ The most common causes of flight delays are varied. While some are not related t
 A virtual assistant powered by artificial intelligence, seamlessly integrated into the browser as an extension. This assistant provides real-time, context-aware support to users while they browse, offering personalized help and insights based on on-screen content and user interactions.
 
 The assistant utilizes the Google Gemini API for natural language processing and understanding, enabling it to interpret queries, provide intelligent responses, and enhance the browsing experience without the need to switch tabs or applications.
+
+Key highlights:
+
+- Integrated directly into the browser interface for instant accessibility.
+
+- Uses Google Gemini API for real-time AI-powered communication.
+
+- Ideal for research support, productivity boosts, and context-driven interactions.
+
+- Modular design for future expansion to other APIs or use cases.
