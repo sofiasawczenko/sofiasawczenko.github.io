@@ -173,7 +173,7 @@ Key highlights:
 
 - Modular design for future expansion to other APIs or use cases.
 
-  [View code on Github](https://github.com/sofiasawczenko/aiva_virtual_assistant_ai)
+[View code on Github](https://github.com/sofiasawczenko/aiva_virtual_assistant_ai)
 
   ---
 
